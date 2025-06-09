@@ -1,8 +1,7 @@
 # Task-4-SQL
 This project focuses on analyzing e-commerce transaction data stored in a PostgreSQL database using advanced SQL. Key business insights such as revenue trends, top customer segments, category performance, and sales timelines were extracted through queries involving aggregation, subqueries, views, and indexing.
-# 📊 SQL Project: E-Commerce Sales Analysis
-
-## 🧾 Project Overview
+ SQL Project: E-Commerce Sales Analysis
+ Project Overview:-
 This project involves performing comprehensive analysis on an e-commerce transaction dataset using SQL in PostgreSQL. It covers multiple dimensions such as customer behavior, sales trends, category insights, and revenue metrics using optimized SQL queries and views.
 
 Database Schema:-
